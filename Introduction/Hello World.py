@@ -1,1 +1,1 @@
-print("Hello World!")
+print("بسم الله الرحمن الرحیم")
